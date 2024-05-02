@@ -19,6 +19,7 @@
 <a href = "mailto:contato@biancaalverne.16"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bianca-alverne-83374b269/?originalSubdomain=br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+![Snake animation](https://github.com/BiaAlverne/BiaAlverne/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/BiaAlverne">
